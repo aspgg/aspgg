@@ -4,7 +4,7 @@ I'm a mid-level developer and computer engineer, working with Java, OracleDB and
 
 🔭 I’m currently working on Java, OracleDB and Oracle Weblogic in Telecommunication.
 
-🌱 I’m currently learning Kotlin
+🌱 I’m currently learning Java Spring
 
 I'm a follower of Stoicism. I don't know if I can achieve it, but I'm on road. 
 
