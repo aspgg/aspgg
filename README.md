@@ -12,17 +12,15 @@ I'm a follower of Stoicism. I don't know if I can achieve it, but I'm on road.
 
 ### Languages
 
-![java](https://img.shields.io/badge/Java_3-orange?logo=java&logoColor=white)
-![c#](https://img.shields.io/badge/C%23_1-6a0dad?logo=c-sharp&logoColor=white)
-![c](https://img.shields.io/badge/C_1-blue?logo=c&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin_0-blueviolet?logo=kotlin&logoColor=white)
+![java](https://img.shields.io/badge/Java_11-orange?logo=java&logoColor=white)
 
 ### Technologies
 
 ![soap api](https://img.shields.io/badge/SOAP_API_2-informational?logo=soap&logoColor=white)
+![rest api](https://img.shields.io/badge/REST_API_2-informational?logo=rest&logoColor=white)
 ![html](https://img.shields.io/badge/HTML_1-orange?logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS_0-informational?logo=css3&logoColor=white)
-![angular](https://img.shields.io/badge/Angular_0-red?&logo=angular&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-orange?logo=javascript3&logoColor=white)
 
 ### Database
 
