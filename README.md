@@ -2,11 +2,11 @@
 
 I'm a mid-level developer and computer engineer, working with Java, OracleDB and Oracle Weblogic. I did some execises with C# and C in the past. I'm interested in data structures and algorithm performances. 
 
-🔭 I’m currently working on Java, OracleDB and Oracle Weblogic in Telecommunication.
+🔭 Java
 
-🌱 I’m currently learning Java Spring
+🌱 Java Spring
 
-I'm a follower of Stoicism. I don't know if I can achieve it, but I'm on road. 
+🔨 Telecommunication, Aviation
 
 ## 🔨 Skills ( w/ years of experience)
 
