@@ -29,9 +29,9 @@ I'm a follower of Stoicism. I don't know if I can achieve it, but I'm on road.
 
 ### Tools & 🖥️ Workspace Setup
 
-![eclipse](https://img.shields.io/badge/Eclipse_3-2C2255?logo=eclipse&logoColor=white)
-![linux](https://img.shields.io/badge/Linux_2-brightgreen?logo=linux&logoColor=black)
-![vim](https://img.shields.io/badge/VIM_2-%2311AB00.svg?&logo=vim&logoColor=white)
+![eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-brightgreen?logo=linux&logoColor=black)
+![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&logo=vim&logoColor=white)
 ![soap-ui](https://img.shields.io/badge/SOAPUI-yellow)
 ![vs-code](https://img.shields.io/badge/VS_Code-blue?&logo=visual-studio-code&logoColor=white)
 ![git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
@@ -41,4 +41,3 @@ I'm a follower of Stoicism. I don't know if I can achieve it, but I'm on road.
 ## 🔗 Let's Connect!
 
 [![linkedin](https://img.shields.io/badge/ahmetsaitpolat-informational?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmetsaitpolat/)
-[![twitter](https://img.shields.io/badge/ahmetsaitpolat-deepskyblue?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aspGLHF)
