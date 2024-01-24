@@ -13,7 +13,7 @@ I'm a mid-level developer and computer engineer, working with Java, OracleDB and
 ### Languages
 
 ![java](https://img.shields.io/badge/Java_11-orange?logo=java&logoColor=white)
-![Java Spring](https://img.shields.io/badge/Java_11-orange?logo=java&logoColor=white)
+![Java Spring](https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white)
 
 ### Technologies
 
