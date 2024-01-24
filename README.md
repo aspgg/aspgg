@@ -20,7 +20,7 @@ I'm a mid-level developer and computer engineer, working with Java, OracleDB and
 ![rest api](https://img.shields.io/badge/REST_API-informational?logo=rest&logoColor=white)
 ![html](https://img.shields.io/badge/HTML_5-orange?logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-informational?logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/Javascript-orange?logo=javascript3&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-red?logo=javascript3&logoColor=white)
 
 ### Database
 
